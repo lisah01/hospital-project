@@ -9,6 +9,7 @@ requests-cache = "*"
 retry-requests = "*"
 numpy = "*"
 pandas = "*"
+pyspark = "*"
 
 [dev-packages]
 
